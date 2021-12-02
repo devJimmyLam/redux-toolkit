@@ -2,8 +2,8 @@ import React from "react";
 import ReactDOM from "react-dom";
 import { Provider } from "react-redux";
 
-// import store from "./redux-old";
-import store from "./redux-toolkit-new";
+import store from "./redux-old";
+// import store from "./redux-toolkit-new";
 
 import "./index.css";
 import App from "./App";

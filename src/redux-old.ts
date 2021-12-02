@@ -98,7 +98,6 @@ export const selectTodoActionCreator = ({
 };
 
 // Reducers
-
 const todosInitialState: Todo[] = [
     {
         id: uuid(),
